@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Osiris Jaylin Chavez Hernandez \[23210697]; l23210697@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
