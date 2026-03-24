@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 2: Sistema cardiovascular '
+message: 'Modelado de Sistemas Fisiologicos / Ingenieria Biomedica '
+type: software
+authors:
+  - given-names: Osiris Jaylin
+    family-names: 'Chavez Hernandez '
+    email: l23210697@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Osiris-1904/MSFPractica2/blob/main/README.md
+repository-code: >-
+  https://github.com/Osiris-1904/MSFPractica2/blob/main/README.md
+keywords:
+  - 'Sistema cardiovascular '
+  - 'Presión arterial '
+  - Flujo sanguíneo
+  - ' Resistencia vascular'
+  - Frecuencia cardíaca
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-23'
